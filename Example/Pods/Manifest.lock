@@ -1,0 +1,20 @@
+PODS:
+  - JKLArrayDataSource-Swift (0.1.0)
+  - Nimble (3.0.0)
+  - Quick (0.8.0)
+
+DEPENDENCIES:
+  - JKLArrayDataSource-Swift (from `../`)
+  - Nimble (= 3.0.0)
+  - Quick (~> 0.8.0)
+
+EXTERNAL SOURCES:
+  JKLArrayDataSource-Swift:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JKLArrayDataSource-Swift: d145e3e4a206eb8331756dbf499e5cddcb679651
+  Nimble: 4c353d43735b38b545cbb4cb91504588eb5de926
+  Quick: 563d0f6ec5f72e394645adb377708639b7dd38ab
+
+COCOAPODS: 0.39.0
